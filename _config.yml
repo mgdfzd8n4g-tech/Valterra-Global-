@@ -1,0 +1,13 @@
+
+title: "Valterra Global"
+description: "Building Beyond Boundaries. A forward-thinking global business group."
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
